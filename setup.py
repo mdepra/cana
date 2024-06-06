@@ -39,7 +39,7 @@ INSTALL_REQUIRES = [
     'numpy',
     'pandas',
     'scipy',
-    'sklearn',
+    'scikit-learn',
     'matplotlib',
     'dataclasses',
     'numba',
